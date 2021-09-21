@@ -1,4 +1,4 @@
-# ClipBoardViewer
+# ClipboardViewer
 An application that SIMPLY displays the text copied to the clipboard.  
 This is a study for using [win32metadata](https://github.com/microsoft/win32metadata)😉
 # References
