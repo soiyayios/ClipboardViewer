@@ -1,4 +1,3 @@
-﻿HWND
-WM_CLIPBOARDUPDATE
+﻿WM_CLIPBOARDUPDATE
 AddClipboardFormatListener
 RemoveClipboardFormatListener
